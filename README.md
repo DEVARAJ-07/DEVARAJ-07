@@ -45,7 +45,7 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email"/> &nbsp;&nbsp;&nbsp;
   </a>
 
-  <a href="https://www.linkedin.com/in/devaraj-s-b50b85364/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/devarajvetrii/" style="text-decoration:none;">
     <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn"/> &nbsp;&nbsp;&nbsp;
   </a>
 </p>
