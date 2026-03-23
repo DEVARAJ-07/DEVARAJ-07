@@ -2,7 +2,7 @@
 
 # 🚀 Hello, I'm DEVARAJ 
 
-### **Web & Mobile Application Developer | Full Stack Explorer | ML Enthusiast**
+### **Web & Mobile Application Developer | Full Stack Developer | ML Enthusiast**
 *Transforming logic into clean, functional, and scalable digital experiences.*
 
 <br/>
