@@ -15,6 +15,8 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/DEVARAJ_lc_07?theme=dark&font=IBM%20Plex%20Sans%20Arabic)](https://leetcode.com/DEVARAJ_lc_07)
 
 </div>
+<br>
+</p>
 
 ---
 
@@ -27,8 +29,11 @@
 - ☁️ Learning and implementing cloud solutions using **AWS**
 - 🚀 Interested in creating scalable software that solves real-world problems and improves user experience
 
----
 
+<br>
+</p>
+
+---
 ## 💻 Tech Stack
 
 ### 🚀 Programming Languages
@@ -87,9 +92,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
+<br>
+</p>
+
+---
 
 ## 📫 Connect With Me
-
 <p align="left">
 <a href="mailto:devarajsubramani20@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/>
@@ -102,6 +110,8 @@
 <a href="https://leetcode.com/DEVARAJ_lc_07">
   <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50" height="50"/>
 </a>
+</p>
+<br>
 </p>
 
 ---
