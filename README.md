@@ -1,9 +1,14 @@
 <div align="center">
 
-# 🚀 Hello, I'm DEVARAJ 
+# 👋 Welcome, I'm DEVARAJ S
 
-### **Web & Mobile Application Developer | Full Stack Developer | ML Enthusiast**
-*Transforming logic into clean, functional, and scalable digital experiences.*
+### Full Stack Developer | Mobile App Developer | AI & Cloud Engineer
+
+*Building scalable web applications, intelligent software solutions, and modern mobile experiences.*
+
+<br>
+
+## 🏆 LeetCode Progress
 
 <br/>
 
@@ -15,59 +20,95 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Engineering Student** with a passion for architectural coding.
-- 🤖 **Machine Learning:** Currently learning from scratch, focusing on data fundamentals and model logic.
-- 📱 **Mobile Vision:** Building cross-platform experiences using Flutter and Android Studio.
-- 💡 **Goal:** To bridge the gap between complex backend logic and beautiful user interfaces.
+- 🎓 Pre-Final Year Computer Science and Engineering Student at **Dr. N.G.P. Institute of Technology**
+- 💻 Passionate about **Full Stack Development, Mobile Applications, Cloud Technologies, and Artificial Intelligence**
+- 📱 Building cross-platform mobile applications using **Flutter & Dart**
+- 🤖 Exploring Large Language Models (LLMs), Natural Language Processing (NLP), and AI-powered applications
+- ☁️ Learning and implementing cloud solutions using **AWS**
+- 🚀 Interested in creating scalable software that solves real-world problems and improves user experience
 
 ---
 
 ## 💻 Tech Stack
 
-### 🌐 Web & Backend
+### 🚀 Programming Languages
+
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
 
-<br/>
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="45" height="45"/>
+</p>
+
+
+### ☁️ Cloud Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="50"/>
+</p>
 
 ### 📱 Mobile Development
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="55" height="55"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55"/>
 </p>
 
-<br/>
+### 🛠️ Tools & Platforms
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+</p>
 
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="mailto:devakrs07@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45" alt="gmail logo"  />
+<a href="mailto:devarajsubramani20@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="45"/>
 </a>&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/devarajvetrii/">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45" alt="linkedin logo"  />
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="45"/>
 </a>&nbsp;&nbsp;
+
 <a href="https://leetcode.com/DEVARAJ_lc_07">
-  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" height="45" alt="leetcode logo"  />
+  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50" height="50"/>
 </a>
 </p>
 
-<br/>
-
 ---
 
+
 <div align="center">
-  <h3>✨ Start learning new things... Implement them beautifully!</h3>
+
+### ✨ Building Intelligent Applications, Scalable Systems, and Meaningful User Experiences
+
 </div>
