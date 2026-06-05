@@ -12,8 +12,7 @@
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/DEVARAJ_lc_07?theme=dark&font=IBM%20Plex%20Sans%20Arabic)](https://leetcode.com/DEVARAJ_lc_07)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/DEVARAJ_lc_07?theme=dark&font=Glory)
 </div>
 <br>
 </p>
