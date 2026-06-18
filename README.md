@@ -117,7 +117,5 @@
 
 
 <div align="center">
-
-### ✨ Building Intelligent Applications, Scalable Systems, and Meaningful User Experiences
-
+    Seeking Jobs and Internships
 </div>
