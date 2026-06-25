@@ -82,9 +82,10 @@ Creating scalable software that solves real-world problems and improves user exp
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+
 </p>
 
 <br>
@@ -145,6 +146,66 @@ Creating scalable software that solves real-world problems and improves user exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
+
+<br><br>
+
+---
+
+<br>
+
+<div align="center">
+
+## Featured Projects
+
+*A selection of projects across AI, mobile, and full-stack development*
+
+</div>
+
+<br>
+
+### StudentBuddy — AI-Powered Smart Mentoring Platform
+
+**Tech Stack:** Flutter · Dart · React.js · Node.js · Supabase · LLM Integration · JWT
+
+- Cross-platform mentoring application enabling real-time one-to-one messaging between students and mentors, unit-tested with 40+ live users
+- Integrated a locally hosted LLM (via LM Studio) as an AI chatbot delivering context-aware academic responses with a privacy-first architecture
+- RESTful API with JWT authentication, multi-role access control (student / mentor / admin), and relational schema design for user relationships
+
+<br>
+
+### SmartEco — AI-Driven Campus Resource Optimizer
+
+**Tech Stack:** React.js · FastAPI · Python · Random Forest · REST API
+
+- Full-stack sustainability platform with a React.js frontend consuming a Python FastAPI backend
+- Random Forest ML model achieving 87% prediction accuracy for forecasting campus energy and resource consumption
+- Real-time environmental monitoring dashboard with dynamic data visualization, cutting manual resource-audit time by 40% and weekly reporting overhead by 3 hours
+
+<br>
+
+### UrScore AI (v1) — Developer Skill Verification Platform
+
+**Tech Stack:** GitHub API · LeetCode Integration · Client-Side Resume Parsing · AWS S3 and EC2
+<br>
+**Live:** [urscore-ai.vercel.app](https://urscore-ai.vercel.app)
+
+- Verifies developers by what they've actually built rather than what their resume claims
+- Analyzes GitHub repositories, parses resumes client-side, and pulls LeetCode stats to generate a composite skill score out of 100
+- Helps recruiters identify genuine technical talent faster, while giving developers credit for real, demonstrated work
+
+<br>
+
+### Nexus AI (v0.1) — *In Development*
+
+**Tech Stack:** AWS Bedrock · GitHub Actions · AWS Lambda
+<br>
+**Live:** [nexus-cicd-ai.vercel.app](https://nexus-cicd-ai.vercel.app)
+
+- AI-powered watchpost that monitors GitHub Actions, GitLab CI, and Jenkins pipelines in real time
+- When a build fails, an LLM analyzes the logs to generate a root-cause diagnosis and fix suggestion
+- Delivers actionable insights via dashboard, Slack, and email — cutting down time spent manually digging through CI logs
+
+<br>
 
 <br><br>
 
