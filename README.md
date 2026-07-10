@@ -163,7 +163,7 @@ Creating scalable software that solves real-world problems and improves user exp
 
 <br>
 
-### StudentBuddy — AI-Powered Smart Mentoring Platform
+### StudentBuddy — AI-Powered Smart Mentoring Android Mobile Application
 
 **Tech Stack:** Flutter · Dart · React.js · Node.js · Supabase · LLM Integration · JWT
 
